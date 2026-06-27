@@ -1,0 +1,1 @@
+MERN-ThinkBoard is a full-stack note-taking app built with MongoDB, Express, React, and Node.js. It lets users create, read, update, and delete notes (with title/content fields), features a React frontend with Tailwind/DaisyUI styling, and includes Upstash Redis-based rate limiting on the backend for abuse prevention.
