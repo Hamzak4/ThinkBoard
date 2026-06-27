@@ -215,7 +215,3 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Hamza Khalid**
-
-Bachelor of Software Engineering
-
-Capital University of Science and Technology (CUST)
